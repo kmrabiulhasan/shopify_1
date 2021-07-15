@@ -1,0 +1,26 @@
+
+.div1{padding:50px 20px;
+	width: 60%;
+	margin: 0 auto;
+	background-color:#ddd;
+	text-align: center; }
+
+h1{background-color: #2e0e8f;
+	color:#f8f8f8;
+	text-align: center;
+	display: inline-block;}
+
+h1 span{color: #f4ed06;}
+
+h4{padding: 10px;
+	font-size: 22px;
+	color: #f8f8f8;
+	text-transform: uppercase;
+	background-color: #2e0e8f;
+	display: inline-block;
+	text-align: center;}
+
+p{text-align: left;}
+
+u{color:tomato;
+font-size: 20px;}
